@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|c:\\users\\stefani\\finki\\it\\code projects\\destiantions\\destiantions\\converter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\converter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\destiantions\\converter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\converter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\destiantions\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\destiantions\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Converter.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Converter.aspx.cs",
+              "RelativeDocumentMoniker": "Destiantions\\Converter.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Converter.aspx.cs",
+              "RelativeToolTip": "Destiantions\\Converter.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T21:57:30.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Converter.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Converter.aspx",
+              "RelativeDocumentMoniker": "Destiantions\\Converter.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Converter.aspx",
+              "RelativeToolTip": "Destiantions\\Converter.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T19:25:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Destiantions\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Default.aspx.cs",
+              "RelativeToolTip": "Destiantions\\Default.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:23:29.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Default.aspx",
+              "RelativeDocumentMoniker": "Destiantions\\Default.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Default.aspx",
+              "RelativeToolTip": "Destiantions\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T17:01:18.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
