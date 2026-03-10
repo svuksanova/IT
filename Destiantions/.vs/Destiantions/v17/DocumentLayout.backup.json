@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\destiantions\\converter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\converter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|c:\\users\\stefani\\finki\\it\\code projects\\destiantions\\destiantions\\imageexercise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\imageexercise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|c:\\users\\stefani\\finki\\it\\code projects\\destiantions\\destiantions\\converter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\converter.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|c:\\users\\stefani\\finki\\it\\code projects\\destiantions\\destiantions\\imageexercise.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\imageexercise.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\destiantions\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\destiantions\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\destiantions\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|c:\\users\\stefani\\finki\\it\\code projects\\destiantions\\destiantions\\birthdaycard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\birthdaycard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|c:\\users\\stefani\\finki\\it\\code projects\\destiantions\\destiantions\\birthdaycard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\birthdaycard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|c:\\users\\stefani\\finki\\it\\code projects\\destiantions\\destiantions\\birthdaycard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D20567-374C-4E62-BA89-37217C2280B3}|Destiantions\\Destiantions.csproj|solutionrelative:destiantions\\birthdaycard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,72 +34,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ImageExercise.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\ImageExercise.aspx.cs",
-              "RelativeDocumentMoniker": "Destiantions\\ImageExercise.aspx.cs",
-              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\ImageExercise.aspx.cs",
-              "RelativeToolTip": "Destiantions\\ImageExercise.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBIAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "BirthdayCard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\BirthdayCard.aspx.cs",
+              "RelativeDocumentMoniker": "Destiantions\\BirthdayCard.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\BirthdayCard.aspx.cs",
+              "RelativeToolTip": "Destiantions\\BirthdayCard.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:15:46.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImageExercise.aspx",
-              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\ImageExercise.aspx",
-              "RelativeDocumentMoniker": "Destiantions\\ImageExercise.aspx",
-              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\ImageExercise.aspx",
-              "RelativeToolTip": "Destiantions\\ImageExercise.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-10T12:49:38.927Z",
+              "WhenOpened": "2026-03-10T14:07:15.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Converter.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Converter.aspx.cs",
-              "RelativeDocumentMoniker": "Destiantions\\Converter.aspx.cs",
-              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Converter.aspx.cs",
-              "RelativeToolTip": "Destiantions\\Converter.aspx.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwEQAAAAMAAAAAAAAAA==",
+              "Title": "BirthdayCard.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\BirthdayCard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Destiantions\\BirthdayCard.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\BirthdayCard.aspx.designer.cs",
+              "RelativeToolTip": "Destiantions\\BirthdayCard.aspx.designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T21:57:30.691Z",
+              "WhenOpened": "2026-03-10T14:07:14.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BirthdayCard.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\BirthdayCard.aspx",
+              "RelativeDocumentMoniker": "Destiantions\\BirthdayCard.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\BirthdayCard.aspx",
+              "RelativeToolTip": "Destiantions\\BirthdayCard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-10T13:30:31.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Converter.aspx",
-              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Converter.aspx",
-              "RelativeDocumentMoniker": "Destiantions\\Converter.aspx",
-              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Converter.aspx",
-              "RelativeToolTip": "Destiantions\\Converter.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-09T19:25:20.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Destiantions\\Default.aspx.cs",
               "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Default.aspx.cs",
               "RelativeToolTip": "Destiantions\\Default.aspx.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T18:23:29.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\Destiantions\\Destiantions\\Default.aspx",
               "RelativeDocumentMoniker": "Destiantions\\Default.aspx",
