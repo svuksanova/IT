@@ -1,0 +1,11 @@
+(MK)
+→ Да се креира веб апликација во која корисникот ќе
+навигира помеѓу 3 страници со произволна содржина.
+Да постои навигација помеѓу трите страници со
+помош на копчиња „претходно“ и „следно“, притоа да
+се сметаат последната и првата страница исто така
+како соседни.
+
+(EN)
+→ Create a web application in which the user will navigate between three pages with any content.
+There should be navigation between the three pages using “Previous” and “Next” buttons, where the last page and the first page are also considered adjacent (neighbors).

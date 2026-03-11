@@ -1,0 +1,103 @@
+(MK)
+
+Задача 1.
+
+→ Да се креира листа на дестинации, од која корисникот
+ќе може да избере една дестинација. Да се прикаже
+името на избраната дестинација откако корисникот ќе
+кликне на копче.
+Да се користат контролите ListBox, Button и Label.
+Компонентите да се постават во табела, централно
+сместена на екранот.
+Ставките во листата да бидат исполнети статички.
+
+→ Да се прошири претходната апликација, така што за
+секоја селектирана дестинација, покрај нејзиното име
+ќе се прикаже и нејзиното растојание од Скопје
+
+→ Да се прошири претходната апликација,така што ќе се
+овозможи селекција на повеќе ставки одеднаш. Да се
+испечатат имињата на сите селектирани ставки.
+
+→ Да се креира листа на валути во која ставките
+ќе севнесуваат динамички.
+Името и вредноста на валутата во денари ги
+внесува корисникот преку TextBox. Секоја ставка се
+креира со притискање на копче.
+Да се користат контролите RadioButtonList, Button,
+TextBox и Label.
+
+→ Да се прошири претходната апликација,така што ќе се
+овозможи бришење на ставки од листата и
+прикажување на бројот на ставки во листата.
+Да се воведе контрола секогаш кога ќе има операција
+со ставка од листа, во листата да има селектирана
+ставка.
+
+→ Да се прошири претходната апликација,така што ќе се
+овозможи конверзија од селектирана валута во
+денари.
+Вредноста која се конвертира се внесува преку
+TextBox.
+Конверзијата да се изврши секогаш кога корисникот ќе
+ја промени селекцијата од листата на валути.
+
+
+Задача 2.
+
+→ Да се креира веб страна во која ќе се прикажат
+Image, Label и ImageButton. Притоа, при клик на
+ImageButton да се прикаже позицијата на која е
+кликнато.
+
+
+Задача 3.
+
+→ Да се креира веб апликација во која корисникот ќе
+креира роденденска честитка. Името на фонтот,
+големината и бојата на текстот, позадинската боја и
+типот на рамка во која ќе биде испишан текстот се
+внесуваат од корисникот. Да се воведе и опција
+корисникот да може да внесе слика во честитката.
+
+----------------------------------------------------------------------------------------
+
+(EN)
+
+Task 1
+
+→ Create a list of destinations from which the user can select one destination.
+Display the name of the selected destination after the user clicks a button.
+Use the controls ListBox, Button, and Label.
+The components should be placed in a table centered on the screen.
+The items in the list should be filled statically.
+
+→ Extend the previous application so that for each selected destination, in addition to its name, its distance from Skopje is also displayed.
+
+→ Extend the previous application so that multiple items can be selected at once.
+Print the names of all selected items.
+
+→ Create a list of currencies where the items will be entered dynamically.
+The name and the value of the currency in denars are entered by the user through a TextBox.
+Each item is created by pressing a button.
+Use the controls RadioButtonList, Button, TextBox, and Label.
+
+→ Extend the previous application so that it is possible to delete items from the list and display the number of items in the list.
+Add a validation/control so that whenever an operation is performed on a list item, an item must be selected in the list.
+
+→ Extend the previous application so that it is possible to convert the selected currency into denars.
+The value to be converted is entered through a TextBox.
+The conversion should be performed whenever the user changes the selection in the currency list.
+
+
+Task 2
+
+→ Create a web page that displays an Image, Label, and ImageButton.
+When the ImageButton is clicked, the position where the click occurred should be displayed.
+
+
+Task 3
+
+→ Create a web application in which the user creates a birthday greeting card.
+The font name, font size, text color, background color, and the type of border in which the text will be displayed are entered by the user.
+Also add an option that allows the user to insert an image into the greeting card.
