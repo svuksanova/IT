@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\labvagain\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|solutionrelative:labvagain\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|c:\\users\\stefani\\finki\\it\\code projects\\labvagain\\labvagain\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|solutionrelative:labvagain\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\labvagain\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|solutionrelative:labvagain\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\labvagain\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|solutionrelative:labvagain\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\labvagain\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|solutionrelative:labvagain\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\labvagain\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7BAC2D-F540-45AA-8D0B-C54D52AB9559}|LabVAgain\\LabVAgain.csproj|solutionrelative:labvagain\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UspeshnoGlasanje.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\UspeshnoGlasanje.aspx.cs",
+              "RelativeDocumentMoniker": "LabVAgain\\UspeshnoGlasanje.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\UspeshnoGlasanje.aspx.cs",
+              "RelativeToolTip": "LabVAgain\\UspeshnoGlasanje.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:17:35.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UspeshnoGlasanje.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\UspeshnoGlasanje.aspx",
+              "RelativeDocumentMoniker": "LabVAgain\\UspeshnoGlasanje.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\UspeshnoGlasanje.aspx",
+              "RelativeToolTip": "LabVAgain\\UspeshnoGlasanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T20:14:36.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Glasaj.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\Glasaj.aspx.cs",
+              "RelativeDocumentMoniker": "LabVAgain\\Glasaj.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\Glasaj.aspx.cs",
+              "RelativeToolTip": "LabVAgain\\Glasaj.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:11:36.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Glasaj.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\Glasaj.aspx",
+              "RelativeDocumentMoniker": "LabVAgain\\Glasaj.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\Glasaj.aspx",
+              "RelativeToolTip": "LabVAgain\\Glasaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T20:02:16.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "LabVAgain\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\Najava.aspx.cs",
+              "RelativeToolTip": "LabVAgain\\Najava.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:21:50.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\Najava.aspx",
+              "RelativeDocumentMoniker": "LabVAgain\\Najava.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\LabVAgain\\LabVAgain\\Najava.aspx",
+              "RelativeToolTip": "LabVAgain\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T19:21:40.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

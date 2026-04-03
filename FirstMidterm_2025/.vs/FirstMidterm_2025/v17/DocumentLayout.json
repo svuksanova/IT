@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|c:\\users\\stefani\\finki\\it\\code projects\\firstmidterm_2025\\firstmidterm_2025\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|solutionrelative:firstmidterm_2025\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\firstmidterm_2025\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|solutionrelative:firstmidterm_2025\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\firstmidterm_2025\\prosek.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|solutionrelative:firstmidterm_2025\\prosek.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\firstmidterm_2025\\prosek.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|solutionrelative:firstmidterm_2025\\prosek.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\firstmidterm_2025\\popolni.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|solutionrelative:firstmidterm_2025\\popolni.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\firstmidterm_2025\\prosek.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|solutionrelative:firstmidterm_2025\\prosek.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\firstmidterm_2025\\popolni.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|solutionrelative:firstmidterm_2025\\popolni.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\firstmidterm_2025\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2212E468-D89D-4D5E-A602-F031C201656B}|FirstMidterm_2025\\FirstMidterm_2025.csproj|solutionrelative:firstmidterm_2025\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prosek.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Prosek.aspx.designer.cs",
+              "RelativeDocumentMoniker": "FirstMidterm_2025\\Prosek.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Prosek.aspx.designer.cs",
+              "RelativeToolTip": "FirstMidterm_2025\\Prosek.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T21:23:51.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prosek.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Prosek.aspx.cs",
+              "RelativeDocumentMoniker": "FirstMidterm_2025\\Prosek.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Prosek.aspx.cs",
+              "RelativeToolTip": "FirstMidterm_2025\\Prosek.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T21:20:43.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prosek.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Prosek.aspx",
+              "RelativeDocumentMoniker": "FirstMidterm_2025\\Prosek.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Prosek.aspx",
+              "RelativeToolTip": "FirstMidterm_2025\\Prosek.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T21:08:18.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "FirstMidterm_2025\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Content\\bootstrap.css",
+              "RelativeToolTip": "FirstMidterm_2025\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-26T18:09:39.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Popolni.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Popolni.aspx.cs",
+              "RelativeDocumentMoniker": "FirstMidterm_2025\\Popolni.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Popolni.aspx.cs",
+              "RelativeToolTip": "FirstMidterm_2025\\Popolni.aspx.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAxwEoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:51:09.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Popolni.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Popolni.aspx",
+              "RelativeDocumentMoniker": "FirstMidterm_2025\\Popolni.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Popolni.aspx",
+              "RelativeToolTip": "FirstMidterm_2025\\Popolni.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T17:42:36.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "FirstMidterm_2025\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Najava.aspx.cs",
+              "RelativeToolTip": "FirstMidterm_2025\\Najava.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:27:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Najava.aspx",
+              "RelativeDocumentMoniker": "FirstMidterm_2025\\Najava.aspx",
+              "ToolTip": "C:\\Users\\Stefani\\Finki\\IT\\CODE PROJECTS\\FirstMidterm_2025\\FirstMidterm_2025\\Najava.aspx",
+              "RelativeToolTip": "FirstMidterm_2025\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T16:42:42.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
