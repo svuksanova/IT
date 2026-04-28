@@ -1,0 +1,24 @@
+@model EventModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Create</h2>
+<br/>
+
+@using (@Html.BeginForm())
+{
+    <p>Enter Name:</p>
+    @Html.TextBoxFor(x=>x.Name)
+    <p>Enter Location:</p>
+    @Html.TextBoxFor(x=>x.Location)
+    <br/>
+    <br/>
+    <button type="submit" value="Create"> Create </button>
+}
+
+<br/>
+@Html.ActionLink("Back", "Index", "Event")
+

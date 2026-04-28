@@ -1,0 +1,37 @@
+@model List<EventModel>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Table of all Events</h2>
+<br/>
+@Html.ActionLink("Create New Event", "Create", "Event")
+<br/>
+
+<table class="table">
+    <thead>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Location</th>
+    <th>Details</th>
+    <th>Edit</th>
+    <th>Delete</th>
+    </thead>
+    
+    <tbody>
+    @foreach (var evnt in @Model)
+    {
+        <tr>
+            <td>@evnt.Id</td>
+            <td>@evnt.Name</td>
+            <td>@evnt.Location</td>
+            <td>@Html.ActionLink("Details","Details","Event", new{id=evnt.Id})</td>
+            <td>@Html.ActionLink("Edit","Edit", "Event", new{id=evnt.Id})</td>
+            <td>@Html.ActionLink("Delete", "Delete", "Event", new{id=evnt.Id})</td>
+        </tr>
+    }
+    </tbody>
+    
+</table>

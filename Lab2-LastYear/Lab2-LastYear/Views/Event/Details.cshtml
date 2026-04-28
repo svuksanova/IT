@@ -1,0 +1,28 @@
+@model EventModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Details</h2>
+
+<table class="table">
+    <thead>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Location</th>
+    </thead>
+    
+    <tbody>
+    <tr>
+        <td>@Model.Id</td>
+        <td>@Model.Name</td>
+        <td>@Model.Location</td>
+    </tr>
+    </tbody>
+    
+    
+</table>
+
+@Html.ActionLink("Home", "Index","Event")

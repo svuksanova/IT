@@ -1,0 +1,21 @@
+@model EventModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Edit</h2>
+<br/>
+
+@using (@Html.BeginForm())
+{
+    @Html.HiddenFor(x=>x.Id)
+    @Html.TextBoxFor(x=>x.Name)
+    @Html.TextBoxFor(x=>x.Location)
+    <br/>
+    <br/>
+    <button type="submit" value="Edit"> Submit Changes </button>
+}
+<br/>
+@Html.ActionLink("Home", "Index", "Event")
